@@ -13,7 +13,7 @@ I bring deep experience in architecting, administering, and implementing mission
 
 ## 🔧 Core Technologies
 
-- **Languages & Frameworks:** Java, J2EE, Spring Boot, GoLang, Python, Objective C, Swift, React, Angular, Spring Security  
+- **Languages & Frameworks:** Java, J2EE, Spring Boot, GoLang, Python, Objective C/C++, Swift, React, Angular, Spring Security  
 - **App Servers:** WebLogic, Apache Tomcat, WebSphere  
 - **Cloud Platforms:** AWS (EC2), GCP, Azure  
 - **Containerization & Orchestration:** Docker, Kubernetes  
@@ -21,7 +21,7 @@ I bring deep experience in architecting, administering, and implementing mission
 - **Databases & Big Data:** Oracle, Hadoop, HDFS, HBase, MongoDB, Cassandra, Solr  
 - **DevOps & Virtualization:** VMware, CI/CD, Automation  
 - **Architecture & Methodologies:** SOA, Microservices, RUP (UML, Use Cases), Agile, Waterfall  
-- **Security & Access Control:** LDAP, TCP/IP  
+- **Security & Access Control:** LDAP, OAuth, Keycloak, OIDC, SAML, TCP/IP  
 - **Legacy Modernization:** Mainframe to J2EE/Java transformation
 
 ---
